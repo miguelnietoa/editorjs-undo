@@ -1,4 +1,5 @@
 # EditorJS Undo Plugin
+
 ![](https://badgen.net/badge/Editor.js/v2.0/blue)
 [![Coverage Status](https://coveralls.io/repos/github/kommitters/editorjs-undo/badge.svg)](https://coveralls.io/github/kommitters/editorjs-undo)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6471/badge)](https://bestpractices.coreinfrastructure.org/projects/6471)
