@@ -1,5 +1,6 @@
 # EditorJS Undo Plugin
 
+
 ![Stability Badge](https://img.shields.io/badge/stability-stable-green.svg)
 ![](https://badgen.net/badge/Editor.js/v2.0/blue)
 [![Coverage Status](https://coveralls.io/repos/github/kommitters/editorjs-undo/badge.svg)](https://coveralls.io/github/kommitters/editorjs-undo)
